@@ -1,0 +1,39 @@
+/* Styles for the spreadsheet container */
+.dash-spreadsheet {
+  /* Add your styles here */
+}
+
+/* Styles for the inner content of the spreadsheet */
+.dash-spreadsheet-inner {
+  /* Add your styles here */
+}
+
+/* Enable virtualization for efficient rendering */
+.dash-virtualized {
+  /* Add your styles here */
+}
+
+/* Freeze the top row */
+.dash-freeze-top {
+  /* Add your styles here */
+  position: sticky;
+  top: 0;
+  z-index: 1; /* Ensure it's above other content */
+}
+
+/* Disable filtering */
+.dash-no-filter {
+  /* Add your styles here */
+}
+
+/* Ensure the spreadsheet fills its container width */
+.dash-fill-width {
+  /* Add your styles here */
+  width: 100%; /* Ensure it fills the available width */
+}
+
+/* Set the width to 60% */
+.dash-spreadsheet {
+  /* Add your styles here */
+  width: 60%; /* Adjust as needed */
+}
