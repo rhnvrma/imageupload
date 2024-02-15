@@ -1,0 +1,190 @@
+Title,Description,Units sold,Price (USD),Channel,Supplier
+Paingelix,Effective pain relief solution with advanced technology,180,299.99,Online Store,Pfizer
+Paingelix,Effective pain relief solution with advanced technology,150,299.99,Chain Store,Merck
+Paingelix,Effective pain relief solution with advanced technology,120,299.99,Retail Store,Bayer
+Paingelix,Effective pain relief solution with advanced technology,100,399.99,Online Store,Merck
+Paingelix,Effective pain relief solution with advanced technology,80,499.99,Chain Store,Bayer
+Paingelix,Effective pain relief solution with advanced technology,60,599.99,Retail Store,Pfizer
+AntifungalY,Powerful antifungal fashion accessory for skin care,90,49.99,Retail Store,Bayer
+AntifungalY,Powerful antifungal fashion accessory for skin care,100,49.99,Online Store,Pfizer
+AntifungalY,Powerful antifungal fashion accessory for skin care,80,69.99,Chain Store,Pfizer
+AntifungalY,Powerful antifungal fashion accessory for skin care,60,79.99,Online Store,Merck
+AntifungalY,Powerful antifungal fashion accessory for skin care,40,89.99,Chain Store,Merck
+Bronchosafe,Premium home appliance designed for respiratory wellness,120,499.99,Online Store,Pfizer
+Bronchosafe,Premium home appliance designed for respiratory wellness,100,499.99,Retail Store,Merck
+Bronchosafe,Premium home appliance designed for respiratory wellness,80,499.99,Chain Store,Bayer
+Bronchosafe,Premium home appliance designed for respiratory wellness,90,599.99,Online Store,Bayer
+Bronchosafe,Premium home appliance designed for respiratory wellness,70,699.99,Online Store,Merck
+Bronchosafe,Premium home appliance designed for respiratory wellness,50,799.99,Chain Store,Merck
+Cancerend,Innovative cancer management device for personalized care,60,129.99,Chain Store,Bayer
+Cancerend,Innovative cancer management device for personalized care,70,129.99,Retail Store,Pfizer
+Cancerend,Innovative cancer management device for personalized care,50,149.99,Online Store,Pfizer
+Cancerend,Innovative cancer management device for personalized care,30,159.99,Chain Store,Merck
+Cancerend,Innovative cancer management device for personalized care,20,169.99,Online Store,Merck
+Cardioplus,Advanced cardiac health monitoring with sleek design,220,19.99,Online Store,Pfizer
+Cardioplus,Advanced cardiac health monitoring with sleek design,200,19.99,Retail Store,Merck
+Cardioplus,Advanced cardiac health monitoring with sleek design,180,24.99,Chain Store,Bayer
+Cardioplus,Advanced cardiac health monitoring with sleek design,160,29.99,Online Store,Bayer
+Cardioplus,Advanced cardiac health monitoring with sleek design,140,34.99,Retail Store,Pfizer
+Cardioplus,Advanced cardiac health monitoring with sleek design,120,39.99,Chain Store,Pfizer
+Cardiox,Smart Health Monitor,130,149.99,Online Store,Pfizer
+Cardiox,Smart Health Monitor,120,149.99,Chain Store,Merck
+Cardiox,Smart Health Monitor,110,149.99,Retail Store,Bayer
+Cardiox,Smart Health Monitor,100,159.99,Online Store,Merck
+Cardiox,Smart Health Monitor,90,169.99,Chain Store,Pfizer
+Cardiox,Smart Health Monitor,80,179.99,Online Store,Bayer
+Dermacil,Advanced Dermatology System,90,79.99,Online Store,Pfizer
+Dermacil,Advanced Dermatology System,80,79.99,Retail Store,Merck
+Dermacil,Advanced Dermatology System,70,79.99,Chain Store,Bayer
+Dermacil,Advanced Dermatology System,60,89.99,Online Store,Bayer
+Dermacil,Advanced Dermatology System,50,99.99,Retail Store,Merck
+Dermacil,Advanced Dermatology System,40,109.99,Chain Store,Merck
+Dermaglow,Skin Vitality Enhancer,190,39.99,Retail Store,Bayer
+Dermaglow,Skin Vitality Enhancer,180,39.99,Online Store,Pfizer
+Dermaglow,Skin Vitality Enhancer,170,44.99,Chain Store,Merck
+Dermaglow,Skin Vitality Enhancer,160,49.99,Retail Store,Merck
+Dermaglow,Skin Vitality Enhancer,150,54.99,Online Store,Bayer
+Dermaglow,Skin Vitality Enhancer,140,59.99,Retail Store,Pfizer
+Diabecheck,Glucose Monitoring Kit,100,69.99,Retail Store,Bayer
+Diabecheck,Glucose Monitoring Kit,110,69.99,Online Store,Pfizer
+Diabecheck,Glucose Monitoring Kit,120,74.99,Chain Store,Pfizer
+Diabecheck,Glucose Monitoring Kit,130,79.99,Retail Store,Bayer
+Diabecheck,Glucose Monitoring Kit,140,84.99,Online Store,Bayer
+Diabecheck,Glucose Monitoring Kit,150,89.99,Chain Store,Merck
+Diabetrol,Insulin Management Device,120,129.99,Online Store,Pfizer
+Diabetrol,Insulin Management Device,110,129.99,Chain Store,Merck
+Diabetrol,Insulin Management Device,100,129.99,Retail Store,Bayer
+Diabetrol,Insulin Management Device,90,139.99,Online Store,Merck
+Diabetrol,Insulin Management Device,80,149.99,Chain Store,Pfizer
+Diabetrol,Insulin Management Device,70,159.99,Retail Store,Pfizer
+Fungistop,Anti-Fungal Therapy Device,70,89.99,Retail Store,Bayer
+Fungistop,Anti-Fungal Therapy Device,80,89.99,Online Store,Pfizer
+Fungistop,Anti-Fungal Therapy Device,90,89.99,Chain Store,Merck
+Fungistop,Anti-Fungal Therapy Device,100,94.99,Retail Store,Merck
+Fungistop,Anti-Fungal Therapy Device,110,99.99,Online Store,Bayer
+Fungistop,Anti-Fungal Therapy Device,120,104.99,Chain Store,Bayer
+Hepafix,Liver Health Optimizer,80,119.99,Online Store,Pfizer
+Hepafix,Liver Health Optimizer,70,119.99,Retail Store,Merck
+Hepafix,Liver Health Optimizer,60,119.99,Chain Store,Bayer
+Hepafix,Liver Health Optimizer,50,129.99,Online Store,Bayer
+Hepafix,Liver Health Optimizer,40,139.99,Chain Store,Pfizer
+Hepafix,Liver Health Optimizer,30,149.99,Online Store,Merck
+Hepaheal,Hepatic Recovery System,50,199.99,Online Store,Pfizer
+Hepaheal,Hepatic Recovery System,40,199.99,Retail Store,Merck
+Hepaheal,Hepatic Recovery System,30,199.99,Chain Store,Bayer
+Hepaheal,Hepatic Recovery System,20,209.99,Online Store,Bayer
+Hepaheal,Hepatic Recovery System,10,219.99,Online Store,Merck
+Hepaheal,Hepatic Recovery System,5,229.99,Chain Store,Merck
+Immunoboost,Immune System Supporter,140,59.99,Chain Store,Bayer
+Immunoboost,Immune System Supporter,130,59.99,E-commerce Platform,Pfizer
+Immunoboost,Immune System Supporter,120,59.99,Retail Store,Merck
+Immunoboost,Immune System Supporter,110,69.99,Online Store,Merck
+Immunoboost,Immune System Supporter,100,79.99,Chain Store,Pfizer
+Immunoboost,Immune System Supporter,90,89.99,E-commerce Platform,Bayer
+Immunomax,Advanced Immune Defense,110,79.99,Retail Store,Merck
+Immunomax,Advanced Immune Defense,120,79.99,Online Store,Pfizer
+Immunomax,Advanced Immune Defense,130,79.99,Chain Store,Bayer
+Immunomax,Advanced Immune Defense,140,89.99,Retail Store,Pfizer
+Immunomax,Advanced Immune Defense,150,99.99,Online Store,Merck
+Immunomax,Advanced Immune Defense,160,109.99,Chain Store,Bayer
+Neurofix,Neurological Health Tracker,65,169.99,Retail Store,Bayer
+Neurofix,Neurological Health Tracker,75,169.99,Chain Store,Merck
+Neurofix,Neurological Health Tracker,85,169.99,Online Store,Pfizer
+Neurofix,Neurological Health Tracker,95,179.99,Retail Store,Pfizer
+Neurofix,Neurological Health Tracker,105,189.99,Chain Store,Bayer
+Neurofix,Neurological Health Tracker,115,199.99,Online Store,Bayer
+Osteofix,Bone Health Enhancer,95,89.99,Online Store,Pfizer
+Osteofix,Bone Health Enhancer,85,89.99,Retail Store,Merck
+Osteofix,Bone Health Enhancer,75,89.99,Chain Store,Bayer
+Osteofix,Bone Health Enhancer,65,99.99,Online Store,Bayer
+Osteofix,Bone Health Enhancer,55,109.99,Retail Store,Merck
+Osteofix,Bone Health Enhancer,45,119.99,Chain Store,Merck
+Osteogrow,Bone Density Stimulator,105,149.99,Chain Store,Bayer
+Osteogrow,Bone Density Stimulator,95,149.99,Retail Store,Pfizer
+Osteogrow,Bone Density Stimulator,85,149.99,Online Store,Merck
+Osteogrow,Bone Density Stimulator,75,159.99,Chain Store,Merck
+Osteogrow,Bone Density Stimulator,65,169.99,Online Store,Bayer
+Osteogrow,Bone Density Stimulator,55,179.99,Retail Store,Pfizer
+Thyrocare,Thyroid Function Monitor,85,129.99,Online Store,Pfizer
+Thyrocare,Thyroid Function Monitor,75,129.99,Chain Store,Merck
+Thyrocare,Thyroid Function Monitor,65,129.99,Retail Store,Bayer
+Thyrocare,Thyroid Function Monitor,55,139.99,Online Store,Bayer
+Thyrocare,Thyroid Function Monitor,45,149.99,Chain Store,Pfizer
+Thyrocare,Thyroid Function Monitor,35,159.99,Online Store,Pfizer
+PulsoSync,Cardiac Rhythm Controller,120,199.99,Online Store,Pfizer
+PulsoSync,Cardiac Rhythm Controller,110,199.99,Retail Store,Merck
+PulsoSync,Cardiac Rhythm Controller,100,199.99,Chain Store,Bayer
+PulsoSync,Cardiac Rhythm Controller,90,209.99,Online Store,Bayer
+PulsoSync,Cardiac Rhythm Controller,80,219.99,Retail Store,Pfizer
+PulsoSync,Cardiac Rhythm Controller,70,229.99,Chain Store,Pfizer
+RespiraGuard,Respiratory Health Assistant,130,79.99,Retail Store,Merck
+RespiraGuard,Respiratory Health Assistant,120,79.99,Chain Store,Bayer
+RespiraGuard,Respiratory Health Assistant,110,79.99,Online Store,Pfizer
+RespiraGuard,Respiratory Health Assistant,100,89.99,Retail Store,Pfizer
+RespiraGuard,Respiratory Health Assistant,90,99.99,Online Store,Merck
+RespiraGuard,Respiratory Health Assistant,80,109.99,Chain Store,Merck
+SleepWellPro,Sleep Quality Optimizer,80,149.99,Online Store,Pfizer
+SleepWellPro,Sleep Quality Optimizer,70,149.99,Retail Store,Merck
+SleepWellPro,Sleep Quality Optimizer,60,149.99,Chain Store,Bayer
+SleepWellPro,Sleep Quality Optimizer,50,159.99,Online Store,Bayer
+SleepWellPro,Sleep Quality Optimizer,40,169.99,Retail Store,Pfizer
+SleepWellPro,Sleep Quality Optimizer,30,179.99,Chain Store,Pfizer
+MentalFocusPlus,Cognitive Enhancement Device,120,119.99,Online Store,Pfizer
+MentalFocusPlus,Cognitive Enhancement Device,110,119.99,Retail Store,Merck
+MentalFocusPlus,Cognitive Enhancement Device,100,119.99,Chain Store,Bayer
+MentalFocusPlus,Cognitive Enhancement Device,90,129.99,Online Store,Merck
+MentalFocusPlus,Cognitive Enhancement Device,80,139.99,Chain Store,Pfizer
+MentalFocusPlus,Cognitive Enhancement Device,70,149.99,Retail Store,Pfizer
+PulseGuard,Cardiac Health Monitor,150,199.99,Online Store,Pfizer
+PulseGuard,Cardiac Health Monitor,120,199.99,Chain Store,Merck
+PulseGuard,Cardiac Health Monitor,100,199.99,Retail Store,Bayer
+PulseGuard,Cardiac Health Monitor,80,219.99,Online Store,Bayer
+PulseGuard,Cardiac Health Monitor,60,239.99,Chain Store,Pfizer
+PulseGuard,Cardiac Health Monitor,40,259.99,Retail Store,Merck
+RespireAid,Respiratory Support Device,90,149.99,Retail Store,Merck
+RespireAid,Respiratory Support Device,100,149.99,Online Store,Pfizer
+RespireAid,Respiratory Support Device,80,169.99,Chain Store,Pfizer
+RespireAid,Respiratory Support Device,60,189.99,Online Store,Merck
+RespireAid,Respiratory Support Device,40,209.99,Chain Store,Merck
+NeuroSync,Neurological Enhancement Headset,80,129.99,Retail Store,Bayer
+NeuroSync,Neurological Enhancement Headset,90,129.99,Online Store,Pfizer
+NeuroSync,Neurological Enhancement Headset,100,129.99,Chain Store,Merck
+NeuroSync,Neurological Enhancement Headset,110,139.99,Retail Store,Pfizer
+NeuroSync,Neurological Enhancement Headset,120,149.99,Online Store,Merck
+NeuroSync,Neurological Enhancement Headset,130,159.99,Chain Store,Bayer
+BloodPressurePro,Smart Blood Pressure Monitor,200,89.99,Online Store,Pfizer
+BloodPressurePro,Smart Blood Pressure Monitor,180,89.99,Retail Store,Merck
+BloodPressurePro,Smart Blood Pressure Monitor,160,89.99,Chain Store,Bayer
+BloodPressurePro,Smart Blood Pressure Monitor,140,99.99,Online Store,Bayer
+BloodPressurePro,Smart Blood Pressure Monitor,120,109.99,Retail Store,Pfizer
+BloodPressurePro,Smart Blood Pressure Monitor,100,119.99,Chain Store,Merck
+GlucoseGuard,Continuous Glucose Monitoring System,120,169.99,Chain Store,Merck
+GlucoseGuard,Continuous Glucose Monitoring System,110,169.99,Retail Store,Bayer
+GlucoseGuard,Continuous Glucose Monitoring System,100,169.99,Online Store,Pfizer
+GlucoseGuard,Continuous Glucose Monitoring System,90,179.99,Online Store,Bayer
+GlucoseGuard,Continuous Glucose Monitoring System,80,189.99,Chain Store,Pfizer
+GlucoseGuard,Continuous Glucose Monitoring System,70,199.99,Retail Store,Pfizer
+VisionCarePro,Advanced Vision Correction Glasses,85,129.99,Online Store,Pfizer
+VisionCarePro,Advanced Vision Correction Glasses,75,129.99,Chain Store,Merck
+VisionCarePro,Advanced Vision Correction Glasses,65,129.99,Retail Store,Bayer
+VisionCarePro,Advanced Vision Correction Glasses,55,139.99,Online Store,Bayer
+VisionCarePro,Advanced Vision Correction Glasses,45,149.99,Chain Store,Pfizer
+VisionCarePro,Advanced Vision Correction Glasses,35,159.99,Online Store,Pfizer
+OrthoFlex,Orthopedic Support Brace,90,69.99,Retail Store,Bayer
+OrthoFlex,Orthopedic Support Brace,80,69.99,Online Store,Pfizer
+OrthoFlex,Orthopedic Support Brace,70,69.99,Chain Store,Merck
+OrthoFlex,Orthopedic Support Brace,60,79.99,Online Store,Merck
+OrthoFlex,Orthopedic Support Brace,50,89.99,Chain Store,Bayer
+OrthoFlex,Orthopedic Support Brace,40,99.99,Retail Store,Pfizer
+CognitiveFocus,Brain-Boosting Cognitive Device,110,119.99,Retail Store,Merck
+CognitiveFocus,Brain-Boosting Cognitive Device,120,119.99,Online Store,Pfizer
+CognitiveFocus,Brain-Boosting Cognitive Device,130,119.99,Chain Store,Bayer
+CognitiveFocus,Brain-Boosting Cognitive Device,140,129.99,Retail Store,Pfizer
+CognitiveFocus,Brain-Boosting Cognitive Device,150,139.99,Online Store,Merck
+CognitiveFocus,Brain-Boosting Cognitive Device,160,149.99,Chain Store,Bayer
+RehabTech,Rehabilitation Assistance Device,70,79.99,Online Store,Pfizer
+RehabTech,Rehabilitation Assistance Device,80,79.99,Retail Store,Merck
+RehabTech,Rehabilitation Assistance Device,90,79.99,Chain Store,Bayer
+RehabTech,Rehabilitation Assistance Device,100,89.99,Online Store,Bayer
+RehabTech,Rehabilitation Assistance Device,110,99.99,Chain Store,Merck
+RehabTech,Rehabilitation Assistance Device,120,109.99,Retail Store,Pfizer
