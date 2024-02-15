@@ -1,0 +1,7 @@
+Dataset,WMAPE,SMAPE
+"Holiday,Promotion",2.17%,2.53%
+Baseline,10.1%,9.96%
+"Promotion,Weather",2.46%,3.28%
+Promotion,2.86%,3.75%
+Weather,4.38%,6.05%
+Holiday,3.34%,4.48%
