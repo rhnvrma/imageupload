@@ -1,0 +1,190 @@
+ID,Name,Units sold,Price (EUR),Channel,Supplier
+12345,Advanced Pain Management Solution with State-of-the-Art Technology,180,299.99,Online Store,Pfizer
+12345,Advanced Pain Management Solution with State-of-the-Art Technology,150,299.99,Chain Store,Merck
+12345,Advanced Pain Management Solution with State-of-the-Art Technology,120,299.99,Retail Store,Bayer
+12345,Advanced Pain Management Solution with State-of-the-Art Technology,100,399.99,Online Store,Merck
+12345,Advanced Pain Management Solution with State-of-the-Art Technology,80,499.99,Chain Store,Bayer
+12345,Advanced Pain Management Solution with State-of-the-Art Technology,60,599.99,Retail Store,Pfizer
+56789,Stylish Antifungal Fashion Accessory for Enhanced Skin Care,90,49.99,Retail Store,Bayer
+56789,Stylish Antifungal Fashion Accessory for Enhanced Skin Care,100,49.99,Online Store,Pfizer
+56789,Stylish Antifungal Fashion Accessory for Enhanced Skin Care,80,69.99,Chain Store,Pfizer
+56789,Stylish Antifungal Fashion Accessory for Enhanced Skin Care,60,79.99,Online Store,Merck
+56789,Stylish Antifungal Fashion Accessory for Enhanced Skin Care,40,89.99,Chain Store,Merck
+23456,Cutting-Edge Home Appliance Engineered for Optimal Respiratory Well-being,120,499.99,Online Store,Pfizer
+23456,Cutting-Edge Home Appliance Engineered for Optimal Respiratory Well-being,100,499.99,Retail Store,Merck
+23456,Cutting-Edge Home Appliance Engineered for Optimal Respiratory Well-being,80,499.99,Chain Store,Bayer
+23456,Cutting-Edge Home Appliance Engineered for Optimal Respiratory Well-being,90,599.99,Online Store,Bayer
+23456,Cutting-Edge Home Appliance Engineered for Optimal Respiratory Well-being,70,699.99,Online Store,Merck
+23456,Cutting-Edge Home Appliance Engineered for Optimal Respiratory Well-being,50,799.99,Chain Store,Merck
+87654,Personalized Cancer Management Device for Innovative Treatment,60,129.99,Chain Store,Bayer
+87654,Personalized Cancer Management Device for Innovative Treatment,70,129.99,Retail Store,Pfizer
+87654,Personalized Cancer Management Device for Innovative Treatment,50,149.99,Online Store,Pfizer
+87654,Personalized Cancer Management Device for Innovative Treatment,30,159.99,Chain Store,Merck
+87654,Personalized Cancer Management Device for Innovative Treatment,20,169.99,Online Store,Merck
+78901,Sleek Design for Advanced Cardiac Health Monitoring,220,19.99,Online Store,Pfizer
+78901,Sleek Design for Advanced Cardiac Health Monitoring,200,19.99,Retail Store,Merck
+78901,Sleek Design for Advanced Cardiac Health Monitoring,180,24.99,Chain Store,Bayer
+78901,Sleek Design for Advanced Cardiac Health Monitoring,160,29.99,Online Store,Bayer
+78901,Sleek Design for Advanced Cardiac Health Monitoring,140,34.99,Retail Store,Pfizer
+78901,Sleek Design for Advanced Cardiac Health Monitoring,120,39.99,Chain Store,Pfizer
+98765,Next-Level Health Monitoring with the Smart Health Monitor,130,149.99,Online Store,Pfizer
+98765,Next-Level Health Monitoring with the Smart Health Monitor,120,149.99,Chain Store,Merck
+98765,Next-Level Health Monitoring with the Smart Health Monitor,110,149.99,Retail Store,Bayer
+98765,Next-Level Health Monitoring with the Smart Health Monitor,100,159.99,Online Store,Merck
+98765,Next-Level Health Monitoring with the Smart Health Monitor,90,169.99,Chain Store,Pfizer
+98765,Next-Level Health Monitoring with the Smart Health Monitor,80,179.99,Online Store,Bayer
+54321,Revolutionary Dermatology System for Advanced Skin Care,90,79.99,Online Store,Pfizer
+54321,Revolutionary Dermatology System for Advanced Skin Care,80,79.99,Retail Store,Merck
+54321,Revolutionary Dermatology System for Advanced Skin Care,70,79.99,Chain Store,Bayer
+54321,Revolutionary Dermatology System for Advanced Skin Care,60,89.99,Online Store,Bayer
+54321,Revolutionary Dermatology System for Advanced Skin Care,50,99.99,Retail Store,Merck
+54321,Revolutionary Dermatology System for Advanced Skin Care,40,109.99,Chain Store,Merck
+21098,Skin Vitality Enhancer for a Radiant and Healthy Complexion,190,39.99,Retail Store,Bayer
+21098,Skin Vitality Enhancer for a Radiant and Healthy Complexion,180,39.99,Online Store,Pfizer
+21098,Skin Vitality Enhancer for a Radiant and Healthy Complexion,170,44.99,Chain Store,Merck
+21098,Skin Vitality Enhancer for a Radiant and Healthy Complexion,160,49.99,Retail Store,Merck
+21098,Skin Vitality Enhancer for a Radiant and Healthy Complexion,150,54.99,Online Store,Bayer
+21098,Skin Vitality Enhancer for a Radiant and Healthy Complexion,140,59.99,Retail Store,Pfizer
+87654,Comprehensive Glucose Monitoring Kit for Diabetes Management,100,69.99,Retail Store,Bayer
+87654,Comprehensive Glucose Monitoring Kit for Diabetes Management,110,69.99,Online Store,Pfizer
+87654,Comprehensive Glucose Monitoring Kit for Diabetes Management,120,74.99,Chain Store,Pfizer
+87654,Comprehensive Glucose Monitoring Kit for Diabetes Management,130,79.99,Retail Store,Bayer
+87654,Comprehensive Glucose Monitoring Kit for Diabetes Management,140,84.99,Online Store,Bayer
+87654,Comprehensive Glucose Monitoring Kit for Diabetes Management,150,89.99,Chain Store,Merck
+23456,State-of-the-Art Insulin Management Device for Diabetes Care,120,129.99,Online Store,Pfizer
+23456,State-of-the-Art Insulin Management Device for Diabetes Care,110,129.99,Chain Store,Merck
+23456,State-of-the-Art Insulin Management Device for Diabetes Care,100,129.99,Retail Store,Bayer
+23456,State-of-the-Art Insulin Management Device for Diabetes Care,90,139.99,Online Store,Merck
+23456,State-of-the-Art Insulin Management Device for Diabetes Care,80,149.99,Chain Store,Pfizer
+23456,State-of-the-Art Insulin Management Device for Diabetes Care,70,159.99,Retail Store,Pfizer
+78901,Advanced Device for Effective Anti-Fungal Therapy,70,89.99,Retail Store,Bayer
+78901,Advanced Device for Effective Anti-Fungal Therapy,80,89.99,Online Store,Pfizer
+78901,Advanced Device for Effective Anti-Fungal Therapy,90,89.99,Chain Store,Merck
+78901,Advanced Device for Effective Anti-Fungal Therapy,100,94.99,Retail Store,Merck
+78901,Advanced Device for Effective Anti-Fungal Therapy,110,99.99,Online Store,Bayer
+78901,Advanced Device for Effective Anti-Fungal Therapy,120,104.99,Chain Store,Bayer
+87654,Optimizing Liver Health with the Hepafix Solution,80,119.99,Online Store,Pfizer
+87654,Optimizing Liver Health with the Hepafix Solution,70,119.99,Retail Store,Merck
+87654,Optimizing Liver Health with the Hepafix Solution,60,119.99,Chain Store,Bayer
+87654,Optimizing Liver Health with the Hepafix Solution,50,129.99,Online Store,Bayer
+87654,Optimizing Liver Health with the Hepafix Solution,40,139.99,Chain Store,Pfizer
+87654,Optimizing Liver Health with the Hepafix Solution,30,149.99,Online Store,Merck
+98765,Promoting Hepatic Recovery with the Innovative Hepaheal System,50,199.99,Online Store,Pfizer
+98765,Promoting Hepatic Recovery with the Innovative Hepaheal System,40,199.99,Retail Store,Merck
+98765,Promoting Hepatic Recovery with the Innovative Hepaheal System,30,199.99,Chain Store,Bayer
+98765,Promoting Hepatic Recovery with the Innovative Hepaheal System,20,209.99,Online Store,Bayer
+98765,Promoting Hepatic Recovery with the Innovative Hepaheal System,10,219.99,Online Store,Merck
+98765,Promoting Hepatic Recovery with the Innovative Hepaheal System,5,229.99,Chain Store,Merck
+21098,Boosting the Immune System with Immunoboost Support,140,59.99,Chain Store,Bayer
+21098,Boosting the Immune System with Immunoboost Support,130,59.99,E-commerce Platform,Pfizer
+21098,Boosting the Immune System with Immunoboost Support,120,59.99,Retail Store,Merck
+21098,Boosting the Immune System with Immunoboost Support,110,69.99,Online Store,Merck
+21098,Boosting the Immune System with Immunoboost Support,100,79.99,Chain Store,Pfizer
+21098,Boosting the Immune System with Immunoboost Support,90,89.99,E-commerce Platform,Bayer
+54321,Fortifying Immune Defenses with Immunomax - An Advanced Solution,110,79.99,Retail Store,Merck
+54321,Fortifying Immune Defenses with Immunomax - An Advanced Solution,120,79.99,Online Store,Pfizer
+54321,Fortifying Immune Defenses with Immunomax - An Advanced Solution,130,79.99,Chain Store,Bayer
+54321,Fortifying Immune Defenses with Immunomax - An Advanced Solution,140,89.99,Retail Store,Pfizer
+54321,Fortifying Immune Defenses with Immunomax - An Advanced Solution,150,99.99,Online Store,Merck
+54321,Fortifying Immune Defenses with Immunomax - An Advanced Solution,160,109.99,Chain Store,Bayer
+87654,Tracking Neurological Health with the Cutting-Edge Neurofix Device,65,169.99,Retail Store,Bayer
+87654,Tracking Neurological Health with the Cutting-Edge Neurofix Device,75,169.99,Chain Store,Merck
+87654,Tracking Neurological Health with the Cutting-Edge Neurofix Device,85,169.99,Online Store,Pfizer
+87654,Tracking Neurological Health with the Cutting-Edge Neurofix Device,95,179.99,Retail Store,Pfizer
+87654,Tracking Neurological Health with the Cutting-Edge Neurofix Device,105,189.99,Chain Store,Bayer
+87654,Tracking Neurological Health with the Cutting-Edge Neurofix Device,115,199.99,Online Store,Bayer
+87654,Enhancing Bone Health with the Innovative Osteofix Solution,95,89.99,Online Store,Pfizer
+87654,Enhancing Bone Health with the Innovative Osteofix Solution,85,89.99,Retail Store,Merck
+87654,Enhancing Bone Health with the Innovative Osteofix Solution,75,89.99,Chain Store,Bayer
+87654,Enhancing Bone Health with the Innovative Osteofix Solution,65,99.99,Online Store,Bayer
+87654,Enhancing Bone Health with the Innovative Osteofix Solution,55,109.99,Retail Store,Merck
+87654,Enhancing Bone Health with the Innovative Osteofix Solution,45,119.99,Chain Store,Merck
+21098,Stimulating Bone Density Growth with Osteogrow,105,149.99,Chain Store,Bayer
+21098,Stimulating Bone Density Growth with Osteogrow,95,149.99,Retail Store,Pfizer
+21098,Stimulating Bone Density Growth with Osteogrow,85,149.99,Online Store,Merck
+21098,Stimulating Bone Density Growth with Osteogrow,75,159.99,Chain Store,Merck
+21098,Stimulating Bone Density Growth with Osteogrow,65,169.99,Online Store,Bayer
+21098,Stimulating Bone Density Growth with Osteogrow,55,179.99,Retail Store,Pfizer
+56789,Monitoring Thyroid Function with Thyrocare - Your Health Partner,85,129.99,Online Store,Pfizer
+56789,Monitoring Thyroid Function with Thyrocare - Your Health Partner,75,129.99,Chain Store,Merck
+56789,Monitoring Thyroid Function with Thyrocare - Your Health Partner,65,129.99,Retail Store,Bayer
+56789,Monitoring Thyroid Function with Thyrocare - Your Health Partner,55,139.99,Online Store,Bayer
+56789,Monitoring Thyroid Function with Thyrocare - Your Health Partner,45,149.99,Chain Store,Pfizer
+56789,Monitoring Thyroid Function with Thyrocare - Your Health Partner,35,159.99,Online Store,Pfizer
+98765,Controlling Cardiac Rhythm with PulsoSync - A Smart Solution,120,199.99,Online Store,Pfizer
+98765,Controlling Cardiac Rhythm with PulsoSync - A Smart Solution,110,199.99,Retail Store,Merck
+98765,Controlling Cardiac Rhythm with PulsoSync - A Smart Solution,100,199.99,Chain Store,Bayer
+98765,Controlling Cardiac Rhythm with PulsoSync - A Smart Solution,90,209.99,Online Store,Bayer
+98765,Controlling Cardiac Rhythm with PulsoSync - A Smart Solution,80,219.99,Retail Store,Pfizer
+98765,Controlling Cardiac Rhythm with PulsoSync - A Smart Solution,70,229.99,Chain Store,Pfizer
+23456,Assisting Respiratory Health with RespiraGuard - Your Breath's Guardian,130,79.99,Retail Store,Merck
+23456,Assisting Respiratory Health with RespiraGuard - Your Breath's Guardian,120,79.99,Chain Store,Bayer
+23456,Assisting Respiratory Health with RespiraGuard - Your Breath's Guardian,110,79.99,Online Store,Pfizer
+23456,Assisting Respiratory Health with RespiraGuard - Your Breath's Guardian,100,89.99,Retail Store,Pfizer
+23456,Assisting Respiratory Health with RespiraGuard - Your Breath's Guardian,90,99.99,Online Store,Merck
+23456,Assisting Respiratory Health with RespiraGuard - Your Breath's Guardian,80,109.99,Chain Store,Merck
+54321,Optimizing Sleep Quality with SleepWellPro - Your Nightly Companion,80,149.99,Online Store,Pfizer
+54321,Optimizing Sleep Quality with SleepWellPro - Your Nightly Companion,70,149.99,Retail Store,Merck
+54321,Optimizing Sleep Quality with SleepWellPro - Your Nightly Companion,60,149.99,Chain Store,Bayer
+54321,Optimizing Sleep Quality with SleepWellPro - Your Nightly Companion,50,159.99,Online Store,Bayer
+54321,Optimizing Sleep Quality with SleepWellPro - Your Nightly Companion,40,169.99,Retail Store,Pfizer
+54321,Optimizing Sleep Quality with SleepWellPro - Your Nightly Companion,30,179.99,Chain Store,Pfizer
+21098,Enhancing Cognitive Function with MentalFocusPlus - Your Brain's Ally,120,119.99,Online Store,Pfizer
+21098,Enhancing Cognitive Function with MentalFocusPlus - Your Brain's Ally,110,119.99,Retail Store,Merck
+21098,Enhancing Cognitive Function with MentalFocusPlus - Your Brain's Ally,100,119.99,Chain Store,Bayer
+21098,Enhancing Cognitive Function with MentalFocusPlus - Your Brain's Ally,90,129.99,Online Store,Merck
+21098,Enhancing Cognitive Function with MentalFocusPlus - Your Brain's Ally,80,139.99,Chain Store,Pfizer
+21098,Enhancing Cognitive Function with MentalFocusPlus - Your Brain's Ally,70,149.99,Retail Store,Pfizer
+87654,Ensure optimal cardiac well-being with continuous cardiac monitoring!,150,199.99,Online Store,Pfizer
+87654,Ensure optimal cardiac well-being with continuous cardiac monitoring!,120,199.99,Chain Store,Merck
+87654,Ensure optimal cardiac well-being with continuous cardiac monitoring!,100,199.99,Retail Store,Bayer
+87654,Ensure optimal cardiac well-being with continuous cardiac monitoring!,80,219.99,Online Store,Bayer
+87654,Ensure optimal cardiac well-being with continuous cardiac monitoring!,60,239.99,Chain Store,Pfizer
+87654,Ensure optimal cardiac well-being with continuous cardiac monitoring!,40,259.99,Retail Store,Merck
+54321,Designed to enhance breathing and provide reliable support for respiratory health,90,149.99,Retail Store,Merck
+54321,Designed to enhance breathing and provide reliable support for respiratory health,100,149.99,Online Store,Pfizer
+54321,Designed to enhance breathing and provide reliable support for respiratory health,80,169.99,Chain Store,Pfizer
+54321,Designed to enhance breathing and provide reliable support for respiratory health,60,189.99,Online Store,Merck
+54321,Designed to enhance breathing and provide reliable support for respiratory health,40,209.99,Chain Store,Merck
+23456,A groundbreaking headset for heightened neurological capabilities and cognitive enhancement.,80,129.99,Retail Store,Bayer
+23456,A groundbreaking headset for heightened neurological capabilities and cognitive enhancement.,90,129.99,Online Store,Pfizer
+23456,A groundbreaking headset for heightened neurological capabilities and cognitive enhancement.,100,129.99,Chain Store,Merck
+23456,A groundbreaking headset for heightened neurological capabilities and cognitive enhancement.,110,139.99,Retail Store,Pfizer
+23456,A groundbreaking headset for heightened neurological capabilities and cognitive enhancement.,120,149.99,Online Store,Merck
+23456,A groundbreaking headset for heightened neurological capabilities and cognitive enhancement.,130,159.99,Chain Store,Bayer
+87654,Transform blood pressure monitoring with real-time insights into cardiovascular health.,200,89.99,Online Store,Pfizer
+87654,Transform blood pressure monitoring with real-time insights into cardiovascular health.,180,89.99,Retail Store,Merck
+87654,Transform blood pressure monitoring with real-time insights into cardiovascular health.,160,89.99,Chain Store,Bayer
+87654,Transform blood pressure monitoring with real-time insights into cardiovascular health.,140,99.99,Online Store,Bayer
+87654,Transform blood pressure monitoring with real-time insights into cardiovascular health.,120,109.99,Retail Store,Pfizer
+87654,Transform blood pressure monitoring with real-time insights into cardiovascular health.,100,119.99,Chain Store,Merck
+21098,Revolutionize diabetes management with continuous glucose monitoring for proactive control.,120,169.99,Chain Store,Merck
+21098,Revolutionize diabetes management with continuous glucose monitoring for proactive control.,110,169.99,Retail Store,Bayer
+21098,Revolutionize diabetes management with continuous glucose monitoring for proactive control.,100,169.99,Online Store,Pfizer
+21098,Revolutionize diabetes management with continuous glucose monitoring for proactive control.,90,179.99,Online Store,Bayer
+21098,Revolutionize diabetes management with continuous glucose monitoring for proactive control.,80,189.99,Chain Store,Pfizer
+21098,Revolutionize diabetes management with continuous glucose monitoring for proactive control.,70,199.99,Retail Store,Pfizer
+54321,Advanced vision correction for a transformative visual experience.,85,129.99,Online Store,Pfizer
+54321,Advanced vision correction for a transformative visual experience.,75,129.99,Chain Store,Merck
+54321,Advanced vision correction for a transformative visual experience.,65,129.99,Retail Store,Bayer
+54321,Advanced vision correction for a transformative visual experience.,55,139.99,Online Store,Bayer
+54321,Advanced vision correction for a transformative visual experience.,45,149.99,Chain Store,Pfizer
+54321,Advanced vision correction for a transformative visual experience.,35,159.99,Online Store,Pfizer
+87654,"Provides targeted orthopedic support for body alignment and stability, promoting comfort and mobility.",90,69.99,Retail Store,Bayer
+87654,"Provides targeted orthopedic support for body alignment and stability, promoting comfort and mobility.",80,69.99,Online Store,Pfizer
+87654,"Provides targeted orthopedic support for body alignment and stability, promoting comfort and mobility.",70,69.99,Chain Store,Merck
+87654,"Provides targeted orthopedic support for body alignment and stability, promoting comfort and mobility.",60,79.99,Online Store,Merck
+87654,"Provides targeted orthopedic support for body alignment and stability, promoting comfort and mobility.",50,89.99,Chain Store,Bayer
+87654,"Provides targeted orthopedic support for body alignment and stability, promoting comfort and mobility.",40,99.99,Retail Store,Pfizer
+21098,"Unleash cognitive potential with innovative technology for a sharper, more focused mind.",110,119.99,Retail Store,Merck
+21098,"Unleash cognitive potential with innovative technology for a sharper, more focused mind.",120,119.99,Online Store,Pfizer
+21098,"Unleash cognitive potential with innovative technology for a sharper, more focused mind.",130,119.99,Chain Store,Bayer
+21098,"Unleash cognitive potential with innovative technology for a sharper, more focused mind.",140,129.99,Retail Store,Pfizer
+21098,"Unleash cognitive potential with innovative technology for a sharper, more focused mind.",150,139.99,Online Store,Merck
+21098,"Unleash cognitive potential with innovative technology for a sharper, more focused mind.",160,149.99,Chain Store,Bayer
+54321,"Accelerate rehabilitation with personalized assistance, helping rediscover mobility and strength.",70,79.99,Online Store,Pfizer
+54321,"Accelerate rehabilitation with personalized assistance, helping rediscover mobility and strength.",80,79.99,Retail Store,Merck
+54321,"Accelerate rehabilitation with personalized assistance, helping rediscover mobility and strength.",90,79.99,Chain Store,Bayer
+54321,"Accelerate rehabilitation with personalized assistance, helping rediscover mobility and strength.",100,89.99,Online Store,Bayer
+54321,"Accelerate rehabilitation with personalized assistance, helping rediscover mobility and strength.",110,99.99,Chain Store,Merck
+54321,"Accelerate rehabilitation with personalized assistance, helping rediscover mobility and strength.",120,109.99,Retail Store,Pfizer
